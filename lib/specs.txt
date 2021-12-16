@@ -1,0 +1,7 @@
+SubstituteHTML
+
+This is where you can enter the name of your variable.
+~{name}~
+
+CSS and JS are appanded to HTML file and sent as one. No tag changes are needed but files need to be linked as if html file is in the same dir as server.js
+please npm install express :)
